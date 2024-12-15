@@ -1,0 +1,11 @@
+<div class="w-96 flex flex-col gap-4 items-start justify-center rounded-md bg-gray-950/30 p-4 hover:bg-gray-950 hover:scale-105 transition-all shadow-lg"
+>
+  <img [routerLink]="['/temporada', temporada?.id]" [src]="temporada?.imagen" alt="Banner de la temporada" class="w-full object-cover rounded-md cursor-pointer">
+    <p class="text-xl font-bold">Temporada{{temporada?.id}}</p>
+    <p class="text-lg font-thin line-clamp-3">{{temporada?.descripcion}}</p>
+    <button class="bg-purple-950/30 text-white px-4 py-2 rounded-md hover:bg-purple-950/50 transition-all duration-300 flex flex-row gap-2 items-center"
+    [routerLink]="['/temporada', temporada?.id]">Ver más <svg class="w-6 h-6 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 12H5m14 0-4 4m4-4-4-4"/>
+      </svg>
+      </button>
+</div>

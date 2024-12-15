@@ -1,0 +1,9 @@
+<div class="w-96 md:w-[450px] p-4 flex flex-col justify-center items-start gap-4 bg-gray-950 rounded-md hover:scale-105 transition-all duration-300 cursor-pointer"
+[routerLink]="['/temporada', capitulo?.temporada,'capitulo', capitulo?.id]">
+    <div class="w-full">
+        <img class="w-full object-cover rounded-md " 
+        [src]="'/banners/temporada'+ capitulo?.temporada +'/t'+ capitulo?.temporada +'-ep'+ capitulo?.id +'.jpg'" 
+        alt="Imagen del capitulo">
+    </div>
+    <p class="text-white text-lg font-thin">{{capitulo?.id}} - {{capitulo?.nombre}}</p>
+</div>

@@ -1,0 +1,17 @@
+<div class="w-full h-[210px] sm:h-[320px] md:h-[450px] lg:h-[650px] flex justify-center items-center mb-6">
+    <img class="h-full object-cover rounded-md" src="flyer.jpg" alt="">
+</div>
+<article class="max-w-screen-xl m-auto my-6 p-4">
+    <h2 class="text-2xl font-thin mb-6">Sinopsis</h2>
+    <p class="text-lg font-thin">Juego de Tronos es el primer volumen de Canción de hielo y fuego, la monumental saga de fantasía épica del escritor George R. R. Martin que ha vendido más de 20 millones de ejemplares en todo el mundo. Traducida a más de 30 idiomas, esta novela ha sido adaptada a la television en una superproducción de HBO.</p>
+    <br>
+    <p class="text-lg font-thin">En el legendario mundo de los siete Reinos, donde el verano puede durar décadas y el invierno toda una vida, y donde rastros de una magia inmemorial surgen en los rincones más sombríos, la tierra del norte, Invernalia, esta resguardada por un colosal muro de hielo que detiene a fuerzas oscuras y sobrenaturales. En este majestuoso escenario, lord Stark y su familia se encuentran en el centro de un conflicto que desatará todas las pasiones: la traicion y la lealtad, la compasión y la sed de venganza, el amor y el poder, la lujuria y el incesto, todo ello para ganar la más mortal de las batallas: el trono de hierro, una poderosa trampa que atrapará a los personajes... y al lector.</p>
+</article>
+<article class="max-w-screen-xl m-auto">
+    <h2 class="text-2xl font-thin mb-6">Temporadas</h2>
+    <div class="flex flex-row gap-4 flex-wrap items-start justify-start">
+        @for (temporada of temporadas; track $index) {
+            <app-cart-temp [temporada]="temporada" />
+        }
+    </div>
+</article>

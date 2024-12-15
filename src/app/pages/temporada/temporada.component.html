@@ -1,0 +1,20 @@
+<div class="mb-6">
+    <nav>
+        <ul class="flex flex-row gap-4 ">
+            @for (temporada of TEMPORADAS; track temporada.id) {
+            <li id="temporada-{{temporada.id}}" 
+            class="text-xl font-bold w-14 text-center cursor-pointer hover:text-purple-500 hover:border-b-4 hover:border-purple-500 transition-colors duration-300" 
+            [class.active]="temporada.id === selectedId" 
+            [routerLink]="['/temporada', temporada.id]"
+            >
+            {{temporada.id}}
+            </li>
+            }
+        </ul>
+    </nav>
+</div>
+<div class="flex flex-row flex-wrap gap-6 items-center justify-center md:justify-start">
+@for (capitulo of temporada?.capitulos; track capitulo.id) {
+    <app-cart-cap [capitulo]="capitulo" />
+}
+</div>

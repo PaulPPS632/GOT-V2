@@ -1,0 +1,23 @@
+@if(book){
+    <div class="flex flex-col items-start justify-center gap-10 p-4 mb-10 h-screen">
+        <div>
+            <h1 class=" text-2xl font-bold mb-4"> {{ book.id }} - {{ book.name }}</h1>
+            <p>{{book.description}}</p>
+        </div>
+         @if(book.url != ''){
+         <div class="responsive-iframe">
+             <iframe [src]="pdfUrl" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+           </div>
+         }@else{
+            <div>
+                <h1>Libro no disponible</h1>
+            </div>
+        }
+         
+
+     </div>
+}@else{
+    <div>
+        <h1>Libro no encontrado</h1>
+    </div>
+}   

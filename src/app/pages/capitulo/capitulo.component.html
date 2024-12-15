@@ -1,0 +1,59 @@
+
+
+@if(capitulo){
+    <div class="flex flex-col items-start justify-center gap-10 p-4 mb-10">
+       <!--
+        <div class="-z-20 image-container">
+            <img [src]="'/banners/temporada'+ capitulo.temporada +'/t'+ capitulo.temporada +'-ep'+ capitulo.id +'.jpg'" alt="Imagen del capitulo" 
+            class=" w-full object-contain " />
+        </div>--> 
+        
+        <div class="responsive-iframe">
+            <iframe [src]="videoUrl" allowfullscreen="allowfullscreen" allow="autoplay"></iframe>
+          </div>
+        <div>
+            <h1 class=" text-2xl font-bold mb-4">Capitulo {{ capitulo.id }} - {{ capitulo.nombre }}</h1>
+            <p>{{capitulo.descripcion}}</p>
+        </div>
+        <div>
+            <h2 class="text-xl font-bold mb-4">Productores</h2>
+            <div class="grid grid-cols-2 gap-4 w-96">
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-400/50">
+                    <li>Productor Ejecutivo</li>
+                    <li>Productor</li>
+                </ul>
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-100/50">
+                    <li>David Benioff</li>
+                    <li>D.B. Weiss</li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <h2 class="text-xl font-bold mb-4">Directores</h2>
+            <div class="grid grid-cols-2 gap-4 w-96">
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-400/50">
+                    <li>Director</li>
+                </ul>
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-100/50">
+                    <li>Alan Taylor</li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <h2 class="text-xl font-bold mb-4">Guionistas</h2>
+            <div class="grid grid-cols-2 gap-4 w-96">
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-400/50">
+                    <li>Guionista</li>
+                    <li>Guionista</li>
+                </ul>
+                <ul class="flex flex-col items-start justify-center gap-2 text-gray-100/50">
+                    <li>David Benioff</li>
+                    <li>D.B. Weiss</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}@else{
+    <p class="text-lg font-semibold text-red-500">Capítulo no encontrado.</p>
+}
+
