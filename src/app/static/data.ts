@@ -189,7 +189,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Valar Dohaeris',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -197,7 +197,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Dark Wings, Dark Words',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -205,7 +205,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Walk of Punishment',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -213,7 +213,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'And Now His Watch Is Ended',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -221,7 +221,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Kissed by Fire',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -229,7 +229,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Climb',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -237,7 +237,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Bear and the Maiden Fair',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -245,7 +245,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Second Sons',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -253,7 +253,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Rains of Castamere',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 3,
@@ -261,7 +261,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Mhysa',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       }
       
     ],
@@ -278,7 +278,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Two Swords',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -286,7 +286,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Lion and the Rose',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -294,7 +294,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Breaker of Chains',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -302,7 +302,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Oathkeeper',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -310,7 +310,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'First of His Name',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -318,7 +318,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Laws of Gods and Men',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -326,7 +326,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Mockingbird',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -334,7 +334,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Mountain and the Viper',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -342,7 +342,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Watchers on the Wall',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 4,
@@ -350,7 +350,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Children',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
 
     ],
@@ -367,7 +367,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Wars to Come',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -375,7 +375,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The House of Black and White',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -383,7 +383,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'High Sparrow',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -391,7 +391,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Sons of the Harpy',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -399,7 +399,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Kill the Boy',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -407,7 +407,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Unbowed, Unbent, Unbroken',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -415,7 +415,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Gift',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -423,7 +423,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Hardhome',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -431,7 +431,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Dance of Dragons',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 5,
@@ -439,7 +439,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Mothers Mercy',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
     ],
   },
@@ -455,7 +455,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Red Woman',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -463,7 +463,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Home',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -471,7 +471,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Oathbreaker',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -479,7 +479,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Book of the Stranger',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -487,7 +487,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Door',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -495,7 +495,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Blood of My Blood',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -503,7 +503,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Broken Man',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -511,7 +511,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'No One',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -519,7 +519,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Battle of the Bastards',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 6,
@@ -527,7 +527,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Winds of Winter',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
     ],
   },
@@ -543,7 +543,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Dragonstone',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -551,7 +551,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Stormborn',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -559,7 +559,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Queen\'s Justice',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -567,7 +567,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Spoils of War',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -575,7 +575,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Eastwatch',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -583,7 +583,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Beyond the Wall',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 7,
@@ -591,7 +591,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Dragon and the Wolf',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
     ],
   },
@@ -607,7 +607,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'Winterfell',
         descripcion: 'Capítulo 1: Reencuentro',
         imagen: 'assets/images/capitulo1_t2.jpg',
-        video: 'assets/videos/capitulo1_t2.mp4',
+        video: '',
       },
       {
         temporada: 8,
@@ -615,7 +615,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'A Knight of the Seven Kingdoms',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 8,
@@ -623,7 +623,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Long Night',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 8,
@@ -631,7 +631,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Last of the Starks',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 8,
@@ -639,7 +639,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Bells',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
       {
         temporada: 8,
@@ -647,7 +647,7 @@ export const TEMPORADAS: Temporada[] = [
         nombre:'The Iron Throne',
         descripcion: 'Capítulo 2: Conflicto',
         imagen: 'assets/images/capitulo2_t2.jpg',
-        video: 'assets/videos/capitulo2_t2.mp4',
+        video: '',
       },
     ],
   },

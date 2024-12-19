@@ -25,9 +25,10 @@ export class CapituloComponent {
 
       // Buscar el capítulo en la temporada
       this.capitulo = temporada?.capitulos.find(cap => cap.id === this.capituloId) || null;
-      console.log(this.capitulo);
-      if (this.capitulo) {
+      if (this.capitulo && this.capitulo.video != "") {
         this.videoUrl = this.sanitizer.bypassSecurityTrustResourceUrl(this.capitulo.video);
+      }else{
+        this.videoUrl = null;
       }
     });
   }
